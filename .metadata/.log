@@ -1,0 +1,62 @@
+!SESSION 2013-02-21 09:36:27.926 -----------------------------------------------
+eclipse.buildId=v21.1.0-569685
+java.version=1.6.0_39
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2013-02-21 09:37:42.723
+!MESSAGE DDMS files not found: /home/xuweirong/下载/adt-bundle-linux-x86_64/eclipse/platform-tools/adb /home/xuweirong/下载/adt-bundle-linux-x86_64/eclipse/tools/hprof-conv /home/xuweirong/下载/adt-bundle-linux-x86_64/eclipse/tools/traceview 
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 09:41:21.427
+!MESSAGE Failed to load properties file for project 'HelloAndroid'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 10:26:21.975
+!MESSAGE Failed to load properties file for project 'MyFirstApp'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:16.052
+!MESSAGE Warning: Ignoring name conflict in resource file for name action_settings
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:16.085
+!MESSAGE Warning: Ignoring name conflict in resource file for name activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:16.085
+!MESSAGE Warning: Ignoring name conflict in resource file for name activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:16.093
+!MESSAGE Warning: Ignoring name conflict in resource file for name activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:28.887
+!MESSAGE Warning: Ignoring name conflict in resource file for name action_settings
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:28.892
+!MESSAGE Warning: Ignoring name conflict in resource file for name activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:28.892
+!MESSAGE Warning: Ignoring name conflict in resource file for name activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:28.897
+!MESSAGE Warning: Ignoring name conflict in resource file for name activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:37.186
+!MESSAGE Warning: Ignoring name conflict in resource file for name action_settings
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:37.191
+!MESSAGE Warning: Ignoring name conflict in resource file for name activity_horizontal_margin
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:37.192
+!MESSAGE Warning: Ignoring name conflict in resource file for name activity_vertical_margin
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-21 12:00:37.196
+!MESSAGE Warning: Ignoring name conflict in resource file for name activity_horizontal_margin
+!SESSION 2013-02-21 14:54:04.765 -----------------------------------------------
+eclipse.buildId=v21.1.0-569685
+java.version=1.6.0_39
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2013-02-21 14:55:27.124
+!MESSAGE DDMS files not found: /home/xuweirong/下载/adt-bundle-linux-x86_64/sdk/platform-tools/adb /home/xuweirong/下载/adt-bundle-linux-x86_64/sdk/tools/hprof-conv /home/xuweirong/下载/adt-bundle-linux-x86_64/sdk/tools/traceview 
